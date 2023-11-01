@@ -27,6 +27,7 @@ import {
   posthogConfig,
   posthogId
 } from '@/lib/config'
+import "@arco-design/web-react/dist/css/arco.css";
 
 if (!isServer) {
   bootstrap()

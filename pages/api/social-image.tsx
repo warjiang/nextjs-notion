@@ -1,4 +1,3 @@
-import * as React from 'react'
 import { NextRequest } from 'next/server'
 
 import { ImageResponse } from '@vercel/og'
